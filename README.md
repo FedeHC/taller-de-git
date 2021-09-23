@@ -1,7 +1,9 @@
 # Taller de GIT
 
 ## Integrantes:
-## - [Vacante 👀]
+
+## - Juan Jose Borrelli
+
 ## - Federico Cacace
 
 ### [Contenido pendiente]
