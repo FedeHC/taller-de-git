@@ -1,0 +1,9 @@
+p .lead {
+  background-color: #F9DEC9;
+  padding: 3px;
+  margin: 5px 0 3px 0;
+  width: 50%;
+  font-style: italic;
+  font-weight: bolder;
+  border-radius: 10px;
+}
