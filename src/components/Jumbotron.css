@@ -1,0 +1,18 @@
+.jumbotron, .display-4 {
+  width: auto;
+  display: inline-block;
+}
+
+.jumbotron {
+  margin: 20px 0 0 30px;
+  padding: 30px;
+  background-color: #AEC5EB;
+  border-radius: 10px;
+  border: 15px solid white;
+}
+
+.display-4 {
+  background-color: #F9DEC9;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
