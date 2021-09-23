@@ -9,6 +9,7 @@ export const Jumbotron = () => {
         <p class="lead">
           Esta aplicación esta realizada para completar el Taller de Git
         </p>
+        <p>Empleando esta app sencilla en React a modo de ejemplo.</p>
         <p class="lead">
           Integrantes del equipo:
           <ul>
