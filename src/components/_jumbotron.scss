@@ -1,4 +1,5 @@
-.jumbotron, .display-4 {
+.jumbotron,
+.display-4 {
   width: auto;
   display: inline-block;
 }
@@ -6,13 +7,17 @@
 .jumbotron {
   margin: 20px 0 0 30px;
   padding: 30px;
-  background-color: #AEC5EB;
+  background-color: #aec5eb;
   border-radius: 10px;
   border: 15px solid white;
+  
+  li {
+    display: block;
+  }
 }
 
 .display-4 {
-  background-color: #F9DEC9;
+  background-color: #f9dec9;
   font-weight: bolder;
   margin-bottom: 20px;
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import { integrantes } from "../Assets/integrantes";
+import { integrantes } from "../assets/integrantes";
 
 export const Jumbotron = () => {
   return (
